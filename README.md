@@ -17,3 +17,6 @@ These are examples of my bash scripts made for automatic testing and easier life
 - comparator_result.sh — made for comparing everything after "Result: " in files / создан для сравнивания всего после подстроки "Result: " в файлах;
 - func_tests.sh — runs tests on program with result output / прогоняет тесты в программе, выводя результат;
 - neg_case.sh && pos_case.sh — for checking correct program behaviour in corresponding cases / для проверки правильности поведения программы в соответствующих случаях (тестах).
+
+### script example / пример работы скрипта 
+![](https://github.com/emresha/bash-examples/blob/main/example.gif)
